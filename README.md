@@ -31,8 +31,8 @@ Contents
  Usage
 --------
 
-Data Cleaning and splitting -> python Dataclean.py
-Training                    -> python TrainData.py
-Testing                     -> python TestData.py
+- Data Cleaning and splitting -> python Dataclean.py
+- Training                    -> python TrainData.py
+- Testing                     -> python TestData.py
         
         
