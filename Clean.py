@@ -1,12 +1,4 @@
 import sys
-sys.path.append("C:\\Anaconda3\\envs\\tensorflow\\python35.zip")
-sys.path.append("C:\\Anaconda3\\envs\\tensorflow\\DLLs")
-sys.path.append("C:\\Anaconda3\\envs\\tensorflow\\lib") 
-sys.path.append("C:\\Anaconda3\\envs\\tensorflow") 
-sys.path.append("C:\\Anaconda3\\envs\\tensorflow\\lib\\site-packages")
-sys.path.append("C:\\Anaconda3\\envs\\tensorflow\\lib\\site-packages\\setuptools-27.2.0-py3.5.egg")
-print(sys.path)
-
 import csv
 import numpy as np
 import pandas as pd
